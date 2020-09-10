@@ -2,5 +2,9 @@
 =====================
 ## Open Source Basic
 ---------------------
-### 자기소개
-이름: 고영준  학번: 2016003263
+### Introduce
+Name: 고영준
+
+Student_ID: 2016003263
+
+Interest:  Virtual  Reality
